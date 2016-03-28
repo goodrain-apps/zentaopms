@@ -1,0 +1,1 @@
+loadProducts($('#project').val());
