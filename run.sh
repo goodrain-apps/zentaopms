@@ -13,7 +13,7 @@ do
   if [ ! -d ${PermanentDir}/${d} ] ;then
     [ -d ${AppDir}/${d} ] && mv ${AppDir}/${d} ${PermanentDir}/${d} || mkdir -pv ${PermanentDir}/${d}
   else
-    rm -rf ${AppDir}/${d}
+    mv ${AppDir}/${d} ${AppDir}/${d}.bak
   fi
 
   ln -s ${PermanentDir}/${d} ${AppDir}/${d}
