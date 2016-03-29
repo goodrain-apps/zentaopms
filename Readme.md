@@ -1,4 +1,4 @@
-<img src="http://www.goodrain.com/images/apps/zendaopms/deploy09.png" width="198px" height="63px"></img>
+<img src="http://www.goodrain.com/images/apps/zendaopms/logo.png" width="198px" height="63px"></img>
 禅道项目管理系统(zendaopms)
 =====================
 
