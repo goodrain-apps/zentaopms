@@ -69,4 +69,4 @@
 
 ### 登录禅道
 
-<img src="http://www.goodrain.com/images/apps/zendaopms/deploy11.png" width="80%" height="80%"></img>
+<img src="http://www.goodrain.com/images/apps/zendaopms/deploy11.png" width="60%" height="60%"></img>
