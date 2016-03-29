@@ -1,6 +1,8 @@
-<img src="http://www.goodrain.com/images/apps/zendaopms/logo.png" width="198px" height="63px"></img>
 禅道项目管理系统(zendaopms)
 =====================
+
+<img src="http://www.goodrain.com/images/apps/zendaopms/logo.png" width="198px" height="63px"></img>
+
 
 禅道由[青岛易软天创网络科技有限公司](http://www.cnezsoft.com/)开发，国产开源项目管理软件。它集产品管理、项目管理、质量管理、文档管理、组织管理和事务管理于一体，是一款专业的研发项目管理软件，完整覆盖了研发项目管理的核心流程。禅道管理思想注重实效，功能完备丰富，操作简洁高效，界面美观大方，搜索功能强大，统计报表丰富多样，软件架构合理，扩展灵活，有完善的API可以调用。
 
