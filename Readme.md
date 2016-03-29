@@ -24,7 +24,8 @@
     - [设置帐号](#设置帐号)
     - [安装完成](#安装完成)
     - [登录禅道](#登录禅道)
-- [项目参与和讨论](#项目参与和讨论)
+- [应用参与和讨论](#应用参与和讨论)
+- [版权说明](#版权说明)
 
 
 # 部署到好雨云
@@ -77,3 +78,9 @@
 ### 登录禅道
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy11.png" width="60%" height="60%"></img>
+
+# 应用参与和讨论
+本项目同步更新 禅道 官方发布的开源版本，并适配好雨云的一键部署 功能。本项目只作为好雨官方发布的禅道一键部署版本
+
+# 版权说明
+[禅道](#http://www.zentao.net/) 开源版本 版权归原公司所有并遵循原开源软件的[版权规则](#https://github.com/easysoft/zentaopms/blob/master/COPYING)
