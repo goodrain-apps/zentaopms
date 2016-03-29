@@ -13,10 +13,10 @@
 - [部署到好雨云](#部署到好雨云)
   - [一键部署](#一键部署)
   - [配置向导](#配置向导)
-    - [欢迎页面](#禅道安装向导-欢迎页面)
-    - [授权协议](#禅道安装向导-授权协议)
-    - [系统检查](#禅道安装向导-系统检查)
-    - [生产配置文件](#禅道安装向导-生产配置文件)
+    - [欢迎页面](#欢迎页面)
+    - [授权协议](#授权协议)
+    - [系统检查](#系统检查)
+    - [生产配置文件](#生产配置文件)
 - [项目参与和讨论](#项目参与和讨论)
 
 
@@ -34,22 +34,39 @@
 ## 配置向导
 部署完成后 应用首页 点击 “访问” 按钮会跳转到禅道的安装向导页面，如下图：
 
-### 禅道安装向导-欢迎页面
+### 欢迎页面
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy02.png" width="100%" height="100%"></img>
 
 
-### 禅道安装向导-授权协议
+### 授权协议
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy03.png" width="100%" height="100%"></img>
 
-### 禅道安装向导-系统检查
+### 系统检查
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy04.png" width="100%" height="100%"></img>
 
-### 禅道安装向导-生产配置文件
+### 生产配置文件
 > 请根据关联的MySQL实际情况填写连接信息，可以在MySQL首页，或者禅道的依赖页面查看到MySQL的连接信息。
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy07.png" width="100%" height="100%"></img>
 
+### 保存配置文件
 
+<img src="http://www.goodrain.com/images/apps/zendaopms/deploy08.png" width="100%" height="100%"></img>
+
+### 设置帐号
+
+<img src="http://www.goodrain.com/images/apps/zendaopms/deploy09.png" width="100%" height="100%"></img>
+
+### 安装完成
+
+<img src="http://www.goodrain.com/images/apps/zendaopms/deploy10.png" width="100%" height="100%"></img>
+
+> - 安装完成后平台会自动删除 `install.php` 和 `upgrade.php` 文件
+> - 如果需要重新初始化配置，只需要删除 `../config/my.php` 文件即可
+
+### 登录禅道
+
+<img src="http://www.goodrain.com/images/apps/zendaopms/deploy11.png" width="100%" height="100%"></img>
