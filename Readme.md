@@ -58,15 +58,15 @@
 
 ### 设置帐号
 
-<img src="http://www.goodrain.com/images/apps/zendaopms/deploy09.png" width="50%" height="50%"></img>
+<img src="http://www.goodrain.com/images/apps/zendaopms/deploy09.png" width="100%" height="100%"></img>
 
 ### 安装完成
 
-<img src="http://www.goodrain.com/images/apps/zendaopms/deploy10.png" width="50%" height="50%"></img>
+<img src="http://www.goodrain.com/images/apps/zendaopms/deploy10.png" width="80%" height="80%"></img>
 
 > - 安装完成后平台会自动删除 `install.php` 和 `upgrade.php` 文件
 > - 如果需要重新初始化配置，只需要删除 `../config/my.php` 文件即可
 
 ### 登录禅道
 
-<img src="http://www.goodrain.com/images/apps/zendaopms/deploy11.png" width="100%" height="100%"></img>
+<img src="http://www.goodrain.com/images/apps/zendaopms/deploy11.png" width="80%" height="80%"></img>
