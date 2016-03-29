@@ -80,7 +80,7 @@
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy11.png" width="60%" height="60%"></img>
 
 # 应用参与和讨论
-本项目同步更新 禅道 官方发布的开源版本，并适配好雨云的一键部署 功能。本项目只作为好雨官方发布的禅道一键部署版本
+本项目同步更新 [禅道](http://www.zentao.net/) 官方发布的开源版本，并适配好雨云的一键部署 功能。
 
 # 版权说明
 [禅道](http://www.zentao.net/) 开源版本 版权归原公司所有并遵循原开源软件的[版权规则](https://github.com/easysoft/zentaopms/blob/master/COPYING)
