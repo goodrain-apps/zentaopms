@@ -25,5 +25,10 @@
 ## 配置向导
 部署完成后 应用首页 点击 “访问” 按钮会跳转到禅道的安装向导页面，如下图：
 
+**禅道安装向导 —— 欢迎页面**
+<img src="http://www.goodrain.com/images/apps/zendaopms/deploy01.png" width="70%" height="70%"></img>
+
+
+
 
 
