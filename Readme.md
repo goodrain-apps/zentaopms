@@ -13,6 +13,7 @@
 - [部署到好雨云](#部署到好雨云)
   - [一键部署](#一键部署)
   - [配置向导](#配置向导)
+    - [欢迎页面](#)
 - [项目参与和讨论](#项目参与和讨论)
 
 
@@ -30,20 +31,20 @@
 ## 配置向导
 部署完成后 应用首页 点击 “访问” 按钮会跳转到禅道的安装向导页面，如下图：
 
-**01. 禅道安装向导：欢迎页面**
+### **01.禅道安装向导:欢迎页面**
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy02.png" width="100%" height="100%"></img>
 
 
-**02. 禅道安装向导：授权协议**
+**02.禅道安装向导:授权协议**
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy03.png" width="100%" height="100%"></img>
 
-**03. 禅道安装向导：系统检查**
+**03.禅道安装向导:系统检查**
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy04.png" width="100%" height="100%"></img>
 
-**04. 禅道安装向导：生产配置文件**
+**04.禅道安装向导:生产配置文件**
 > 请根据关联的MySQL实际情况填写连接信息，可以在MySQL首页，或者禅道的依赖页面查看到MySQL的连接信息。
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy07.png" width="100%" height="100%"></img>
