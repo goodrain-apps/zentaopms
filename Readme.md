@@ -1,7 +1,7 @@
-1. What is ZenTao for?
+禅道项目管理系统(zendaopms)
 =====================
 
-ZenTao, developed by Nature Easy Soft Network Technology Development Co. Ltd, is an open source project management software. Combining product management, project management, quality management, document project, organization management and todo management, ZenTao is professional R&D project management software, completely covering the core processes of R & D project. Results-oriented with perfect functions, easy operation, beautiful interface, powerful search functions, various statistical statements and complete API, ZenTao is reasonably structured and can be extended flexibly.
+禅道由[青岛易软天创网络科技有限公司](http://www.cnezsoft.com/)开发，国产开源项目管理软件。它集产品管理、项目管理、质量管理、文档管理、组织管理和事务管理于一体，是一款专业的研发项目管理软件，完整覆盖了研发项目管理的核心流程。禅道管理思想注重实效，功能完备丰富，操作简洁高效，界面美观大方，搜索功能强大，统计报表丰富多样，软件架构合理，扩展灵活，有完善的API可以调用。禅道，专注研发项目管理！ 更多信息参见[官方介绍](http://www.zentao.net/book/zentaopmshelp/38.html)
 
 ZenTao - focuses on R & D project management.
 
