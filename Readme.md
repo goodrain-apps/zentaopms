@@ -83,4 +83,4 @@
 本项目同步更新 禅道 官方发布的开源版本，并适配好雨云的一键部署 功能。本项目只作为好雨官方发布的禅道一键部署版本
 
 # 版权说明
-[禅道](#http://www.zentao.net/) 开源版本 版权归原公司所有并遵循原开源软件的[版权规则](#https://github.com/easysoft/zentaopms/blob/master/COPYING)
+[禅道](http://www.zentao.net/) 开源版本 版权归原公司所有并遵循原开源软件的[版权规则](https://github.com/easysoft/zentaopms/blob/master/COPYING)
