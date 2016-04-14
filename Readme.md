@@ -22,7 +22,7 @@
     - [欢迎页面](#欢迎页面)
     - [授权协议](#授权协议)
     - [系统检查](#系统检查)
-    - [生产配置文件](#生产配置文件)
+    - [配置数据库](#配置数据库)
     - [保存配置文件](#保存配置文件)
     - [设置帐号](#设置帐号)
     - [安装完成](#安装完成)
@@ -58,7 +58,7 @@
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy04.png" width="100%" height="100%"></img>
 
-### 生产配置文件
+### 配置数据库
 > 请根据关联的MySQL实际情况填写连接信息，可以在MySQL首页，或者禅道的依赖页面查看到MySQL的连接信息。
 
 <img src="http://www.goodrain.com/images/apps/zendaopms/deploy07.png" width="100%" height="100%"></img>
