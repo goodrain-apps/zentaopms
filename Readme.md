@@ -1,6 +1,9 @@
 禅道项目管理系统(zendaopms)
 =====================
 
+> 支持 好雨云 **一键部署** ，源码与官方同步更新
+
+
 <img src="http://www.goodrain.com/images/apps/zendaopms/logo.png" width="198px" height="63px"></img>
 
 
