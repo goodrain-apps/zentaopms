@@ -1,3 +1,3 @@
 {
-    "require": {"hhvm": "3.5.1"}
+	"require": {"hhvm": "3.2"}
 }
